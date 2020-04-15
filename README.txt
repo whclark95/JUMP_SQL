@@ -1,0 +1,1 @@
+These are SQL queries I wrote while learning the language
